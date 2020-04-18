@@ -1,0 +1,18 @@
+{
+  "name": "umi-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^2.8.4",
+    "umi-plugin-react": "^1.9.2"
+  },
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^1.0.3",
+    "umi-request": "^1.2.19"
+  }
+}
